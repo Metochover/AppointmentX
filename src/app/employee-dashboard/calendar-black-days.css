@@ -1,0 +1,9 @@
+.rbc-month-view, .rbc-date-cell, .rbc-day-bg, .rbc-header, .rbc-off-range, .rbc-off-range-bg, .rbc-off-range .rbc-date-cell {
+  color: #111 !important;
+}
+.rbc-date-cell {
+  color: #111 !important;
+}
+.rbc-header {
+  color: #111 !important;
+} 
